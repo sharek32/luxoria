@@ -29,7 +29,7 @@ git clone https://github.com/sharek32/luxoria.git
 
 Ensure images are correctly named and placed in the img/ directory. Update the <img> sources like this:
 
---<img src="img/watch.jpg" alt="Luxury Watch">--
+**<img src="img/watch.jpg" alt="Luxury Watch">**
 
 **Contribution**
 
