@@ -1,4 +1,4 @@
-# luxoria
+k# luxoria
 LUXORIA is a premium, elegant product showcase webpage featuring an exclusive collection of luxury items.
 
 **Features**
@@ -24,12 +24,6 @@ JavaScript – For interactivity
 git clone https://github.com/sharek32/luxoria.git
 
 2. Open index.html in a browser.
-
-**Fixing Image Issues**
-
-Ensure images are correctly named and placed in the img/ directory. Update the <img> sources like this:
-
-**<img src="img/watch.jpg" alt="Luxury Watch">**
 
 **Contribution**
 
